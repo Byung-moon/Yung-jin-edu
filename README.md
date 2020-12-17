@@ -5,7 +5,7 @@
 ### 교육 내용
 > JAVA 기본 학습(변수, 기본 문법, 클래스)
 
-> [타워디펜스 소스](https://goalfxms.tistory.com/36) 분석
+> [타워디펜스](https://github.com/Byung-moon/Yung-jin-edu/tree/main/ToWerDefense) 분석
 
 
          : 프로그래밍에 흥미를 붙여주기 위해 완성도 높은 Source File을 이용하여 교육 진행.
