@@ -25,7 +25,11 @@
 
 ### 화면
 
+> 실행 화면
+![play](images/play.PNG)
 
 ### 관련 영상
+
+ > https://www.youtube.com/watch?v=KTaUHr6djGY 
 
 
