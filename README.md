@@ -14,7 +14,7 @@
          : 낮은 단계로 내려가면서 하나씩 분석해 보고 재미로 코드도 바꿔보는 방식의 교육
    
 ### 관련 사진
-[studing](images/studing.jpg)
+[studing](images/styding.jpg)
    
 ### 구성 코드
 
