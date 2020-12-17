@@ -17,7 +17,8 @@
 ![studing](https://github.com/Byung-moon/Yung-jin-edu/blob/main/images/%EC%BA%A1%EC%B2%98.PNG)
    
 ### 구성 코드
-
+ > 총 4개의 JAVA CODE로 구성  
+ ![Code Config](images/CodeConfig.PNG)
 
 
 
